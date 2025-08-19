@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
