@@ -1,3 +1,8 @@
+## Day 3
+- Fixed SSH authentication for GitHub (set up SSH key).
+- Successfully pushed repo with SSH.
+- Cleaned repo structure (removed duplicate files).
+- Prepared progress log format for daily updates.
 # 📅 Progress Log
 
 ## Day 1
