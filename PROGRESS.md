@@ -17,5 +17,12 @@
 - Cleaned repo structure (removed duplicate files).
 - Prepared progress log format for daily updates.
 
+## Day 4
+- Started Packet Sniffer project.
+- Implemented basic capture using Scapy (source/destination/protocol).
+- Added CSV and PCAP logging.
+- Saved screenshot in `packet-sniffer/screenshots/day4_sniffer.png`.
+
+
 ---
 
