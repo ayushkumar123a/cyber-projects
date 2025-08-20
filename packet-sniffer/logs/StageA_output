@@ -1,5 +1,5 @@
 ┌──(ayush㉿ayush)-[~/cyber-projects/packet-sniffer]
-└─$ sudo ../venv/bin/python app.py -i lo -c 20
+└─$ sudo ../venv/bin/python app.py -i lo -c 20     # to capture the packet locally 
 
 [!] Starting sniffer on lo, capturing 20 packets...
 [+] 127.0.0.1 -> 127.0.0.1 | Proto: 1 | Len: 98
@@ -25,7 +25,7 @@
 [✔] Capture finished. Saved to logs/day5_sniffer.csv
                                                                                                                    
 ┌──(ayush㉿ayush)-[~/cyber-projects/packet-sniffer]
-└─$ sudo ../venv/bin/python app.py -i eth0 -c 20
+└─$ sudo ../venv/bin/python app.py -i eth0 -c 20             # To capture the packet from the incoming and outgoing on the network 
 
 [!] Starting sniffer on eth0, capturing 20 packets...
 [+] 10.0.2.15 -> 10.0.2.3 | Proto: 17 | Len: 74
