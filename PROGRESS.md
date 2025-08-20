@@ -27,6 +27,14 @@
 - Extended sniffer to support CSV and PCAP logging.
 - Evidence: `packet-sniffer/screenshots/day5_stageB.png`
 
+  ### ✅ Day 6 Progress
+- Replaced sniffer with **Stage B code** (CSV + PCAP logging).
+- Now captures packets with timestamp, source, destination, protocol, and length.
+- Logs saved into `logs/packets_<timestamp>.csv` and `logs/packets_<timestamp>.pcap`.
+- Verified by running on `lo` interface with 15 packets.
+- Successfully opened `.pcap` in Wireshark for analysis.
+
+
 
 ---
 
