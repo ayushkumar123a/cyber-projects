@@ -23,6 +23,10 @@
 - Added CSV and PCAP logging.
 - Saved screenshot in `packet-sniffer/screenshots/day4_sniffer.png`.
 
+## Day 5
+- Extended sniffer to support CSV and PCAP logging.
+- Evidence: `packet-sniffer/screenshots/day5_stageB.png`
+
 
 ---
 
